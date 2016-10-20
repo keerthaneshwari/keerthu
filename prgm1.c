@@ -12,5 +12,4 @@ int main()
   printf("number is odd:");
   }
   return 0;
-  getch();
   }
